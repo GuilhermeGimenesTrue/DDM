@@ -1,0 +1,14 @@
+- Principais SGBD's tanto relacionais quanto não relacional
+- Principais caracteristicas (os dois!!!!)
+- Vantagens não relacional VS relacional (quando utilizar)
+- Valores (cobrando)
+- Empresas que utilizam tanto relacional quanto não relacional
+
+Ex: Empresa X usa sgbd y
+
+
+
+https://www.treinaweb.com.br/blog/os-principais-sgbds-relacionais#google_vignette
+https://www.alura.com.br/artigos/sgbds-relacionais?srsltid=AfmBOoo4LgRypTDV_RxR-J8KTFQWiKUKXLpRFmRqf6P8kQFHxBhziy9H
+https://cloud.google.com/learn/what-is-a-relational-database?hl=pt-BR
+https://ehgomes.com.br/banco-de-dados/sgbd-sistema-gerenciador-de-banco-de-dado-o-que-e/
